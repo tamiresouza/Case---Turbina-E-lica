@@ -1,2 +1,2 @@
-# Case---Turbina-E-lica
-Análise do Wind Turbine Scada Dataset disponível no Kaggle
+# 
+Análise da base de dados Wind Turbine Scada disponível no Kaggle
